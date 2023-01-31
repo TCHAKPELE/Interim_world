@@ -1,0 +1,21 @@
+Note sur le projet :
+Introduction:
+Dans l'objectif de valider l'année en cours et appliqué l'ensemble de mes connaissances acquises pendant 
+mes années de master ce projet à vu le jour.Tout d'abord un thème sera choisi ainsi qu'un language de programmation et un plan d'action détaillant les 
+diverses étapes du projet du début à la fin.
+
+
+
+Language de Programmation  : Javascript ; Framework : Express/Réact
+
+Temps de travail : 60 h 
+
+Thème : Application d'agence D'interim 
+
+Objectif : Permettre à des intermaires de s'inscrire sur la plateforme , de postuler à des offres de missions .
+Aussi les entreprises souhaitant s'inscrire sur la plateforme peuvent y créer leur compte et y mettre leur offre afin de choisir le meilleur profil.
+Un système de note sera attribué aux entreprises pour les conditions de travail ainsi qu'aux intérimaire sur leur efficacité (ponctualité ,qualité de travail, etc .. )
+L'ensemble des fonctionnalités sera détaillé dans la suite du document.
+
+Le projet disposera d'un repo Git nommé Interim_world qui contiendra la doc et le projet 
+avec toutes les sources utiles.
