@@ -1,0 +1,49 @@
+Note sur le projet :
+Introduction:
+Dans l'objectif de valider l'année en cours et appliqué l'ensemble de mes connaissances acquises pendant 
+mes années de master ce projet à vu le jour.Tout d'abord un thème sera choisi ainsi qu'un language de programmation et un plan d'action détaillant les 
+diverses étapes du projet du début à la fin.
+
+
+
+Language de Programmation  : Javascript ; Framework : Express/Angular
+
+Temps de travail : 60 h 
+
+Thème : Application d'agence D'interim 
+
+Objectif : Permettre à des intermaires de s'inscrire sur la plateforme , de postuler à des offres de missions .
+Aussi les entreprises souhaitant s'inscrire sur la plateforme peuvent y créer leur compte et y mettre leur offre afin de choisir le meilleur profil.
+Un système de note sera attribué aux entreprises pour les conditions de travail ainsi qu'aux intérimaire sur leur efficacité (ponctualité ,qualité de travail, etc .. )
+L'ensemble des fonctionnalités sera détaillé dans la suite du document.
+
+Le projet disposera d'un repo Git nommé Interim_world qui contiendra la doc et le projet 
+avec toutes les sources utiles.
+
+Lien github : https://github.com/TCHAKPELE/Interim_world
+
+Les differentes fonctionnalités disponible seront en foction du type d'utilisateur
+
+On distinguera 3 types d'utilisateurs :
+
+-Profil Admin : l'administrateur de la plateforme 
+-Profil Entreprise : ce sera le profit des entreprises voulant recruter des intérimaires
+Ils devront créer leur compte sur la plateforme via un formulaire
+Parmis les actions disponible ils pourront :
+-deposer des offres sur la plateforme avec les different détails (les modifier ou supprimer au besoin)
+-Accepter les candidats qu'ils souhaitent après avoir reçu une notification si des personnes ont postulé
+-Notifier le début et la fin du service afin de définir le temps de travail effectuer
+-Noter les interimaire selon certains critères (ponctualité ,etc..)
+-Profit Interimaire : ici il s'agit du profil de ceux recherchant du travail en intérim
+Ils devront créer un compte via un formulaire et donner des pièces justificatifs avant d'avoir accès aux offres
+Ils pourront selectionner des propositions dans la liste et y postuler (il sera possible également d'annuler une mission en cas d'indiponibilité cependant le faire trop souvant entrainera des sanctions)
+Ils pourront aussi consulter l'historique des missions effectuer et donner des commentaires sur les entreprises où ils ont effecteur des missions
+après chaque mission ils auront une fiche de paye généré automatiquement qu'il pourront consulter pour avoir le details de leur missions et pourront contacter les service client en cas d'erreurs
+
+Voilà globalement les fonctionnalités de base qui seront présente sur la plateforme 
+Des mises à jours seront effectuer périodiquement afin améliorer l'Application et garantir l'intégrité des données
+
+L'objectif est d'obtenir une Application fonctionnelle avec des tests unitaires fonctionnels,
+respectant les code de l'ux et pouvant être déployé sur un hébergeur.
+
+
