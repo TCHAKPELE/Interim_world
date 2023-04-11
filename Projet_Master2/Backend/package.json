@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TCHAKPELE/Interim_world.git#master"
+  },
+  "keywords": [
+    "Elsenior1"
+  ],
+  "author": "TCHAKPELE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TCHAKPELE/Interim_world/issues"
+  },
+  "homepage": "https://github.com/TCHAKPELE/Interim_world/tree/master#readme"
+}
